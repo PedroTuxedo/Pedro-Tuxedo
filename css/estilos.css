@@ -1,0 +1,40 @@
+body {
+    background-image: url('https://image.freepik.com/fotos-gratis/fundo-claro-de-gradiente-azul-simples-com-cor-retro-espaco-para-composicao-de-texto-imagem-de-arte-site-revista-ou-grafico-para-design-de-campanha-comercial_1962-309.jpg');
+    background-size: auto 150vh;
+    font-family: Arial;
+    height: 100vh;
+  
+  }
+  
+  .menu {
+    background-color: Lavender;
+  }
+  
+  .menu ul {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .menu li {
+   list-style: none; 
+  }
+  
+  a {
+    color: deepskyblue;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+    text-decoration-color: red;
+  }
+  
+  .site-subtitle, 
+  .site-title {
+    color: floralwhite;
+    text-align: center;
+  }
+  
+  .site-subtitle {
+   font-style: italic;
+  }
